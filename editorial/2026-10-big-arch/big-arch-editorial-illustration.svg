@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="690" viewBox="0 0 1200 690" role="img" aria-labelledby="title desc">
+<title id="title">Big Arch Korea ingredient illustration</title>
+<desc id="desc">Original editorial illustration of a large double-beef cheeseburger with bun, cheese, lettuce, onion and pickles. Not a photograph of a purchased burger or an official McDonald's image.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5efe3"/><stop offset="1" stop-color="#e4d8c3"/></linearGradient>
+ <linearGradient id="bun" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#df9a49"/><stop offset=".58" stop-color="#c67631"/><stop offset="1" stop-color="#ab5c2b"/></linearGradient>
+ <linearGradient id="beef" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#6e3524"/><stop offset=".5" stop-color="#3d211a"/><stop offset="1" stop-color="#8b4529"/></linearGradient>
+ <linearGradient id="cheese" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fbe19e"/><stop offset="1" stop-color="#e9ac4d"/></linearGradient>
+ <filter id="shadow" x="-25%" y="-70%" width="150%" height="240%"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect width="1200" height="690" fill="url(#bg)"/>
+<circle cx="1020" cy="95" r="180" fill="#eadfca" opacity=".65"/>
+<text x="70" y="92" font-family="Arial,sans-serif" font-weight="700" font-size="25" letter-spacing="3" fill="#665442">WORLD SIGNAL DESK • SEOUL FOOD FILE</text>
+<text x="70" y="170" font-family="Georgia,serif" font-size="68" font-weight="700" fill="#231e1a">THE BIG ARCH</text>
+<text x="70" y="213" font-family="Arial,sans-serif" font-size="27" fill="#625448">Two beef patties. Three slices of cheese.</text>
+<text x="70" y="251" font-family="Arial,sans-serif" font-size="22" fill="#625448">Korean menu ingredient guide • 2026</text>
+<ellipse cx="833" cy="603" rx="318" ry="27" fill="#8b7968" opacity=".23" filter="url(#shadow)"/>
+<g transform="translate(480 32)">
+ <path d="M76 350 Q88 321 155 321 L556 321 Q624 323 644 350 Q609 376 543 375 L168 375 Q101 372 76 350Z" fill="#b97337"/>
+ <path d="M82 350 Q205 371 366 362 Q543 356 635 347" fill="none" stroke="#eda45e" stroke-width="12"/>
+ <path d="M83 329 Q59 305 106 289 L603 289 Q647 303 630 330 Q565 345 369 348 Q158 347 83 329Z" fill="url(#beef)"/>
+ <path d="M85 304 Q220 321 360 316 Q521 308 622 304 L601 326 533 330 496 353 449 328 362 338 291 328 216 356 186 335 121 335Z" fill="url(#cheese)"/>
+ <path d="M89 277 Q63 257 112 240 L603 240 Q661 261 635 281 Q563 299 348 293 Q167 297 89 277Z" fill="url(#beef)"/>
+ <path d="M87 260 Q252 272 353 267 Q535 271 637 259 L605 285 539 285 519 301 453 281 374 286 320 311 270 283 170 287 123 301Z" fill="url(#cheese)"/>
+ <path d="M84 243 Q150 221 232 238 Q308 213 376 236 Q464 218 539 233 Q601 217 640 239 Q587 250 524 244 Q444 257 371 246 Q274 262 181 249 Q119 263 84 243Z" fill="#6f9d49"/>
+ <path d="M91 226 Q120 215 160 225 Q203 210 259 219 Q339 203 424 217 Q530 204 628 224" fill="none" stroke="#d6d18b" stroke-width="15" stroke-linecap="round"/>
+ <path d="M99 232 Q206 211 353 230 Q497 213 621 228" fill="none" stroke="#e7c07c" stroke-width="10" stroke-dasharray="25 14"/>
+ <path d="M76 216 Q82 103 218 80 Q345 55 494 84 Q622 106 647 216Z" fill="url(#bun)" stroke="#b86f30" stroke-width="5"/>
+ <ellipse cx="362" cy="210" rx="276" ry="21" fill="#ba732e" opacity=".7"/>
+ <g fill="#fff2cc" opacity=".92">
+ <ellipse cx="213" cy="124" rx="11" ry="4" transform="rotate(17 213 124)"/>
+ <ellipse cx="286" cy="111" rx="11" ry="4" transform="rotate(-22 286 111)"/>
+ <ellipse cx="373" cy="116" rx="11" ry="4" transform="rotate(13 373 116)"/>
+ <ellipse cx="470" cy="140" rx="11" ry="4" transform="rotate(-18 470 140)"/>
+ <ellipse cx="537" cy="178" rx="11" ry="4" transform="rotate(19 537 178)"/>
+ <ellipse cx="159" cy="166" rx="11" ry="4" transform="rotate(-21 159 166)"/>
+ <ellipse cx="348" cy="157" rx="11" ry="4" transform="rotate(26 348 157)"/>
+ <ellipse cx="444" cy="187" rx="11" ry="4" transform="rotate(-12 444 187)"/>
+ </g>
+ <g fill="#4b3928">
+ <ellipse cx="259" cy="145" rx="6" ry="4"/><ellipse cx="412" cy="136" rx="6" ry="4"/><ellipse cx="516" cy="163" rx="6" ry="4"/>
+ </g>
+</g>
+<rect x="0" y="635" width="1200" height="55" fill="#2b2622"/>
+<text x="52" y="670" font-family="Arial,sans-serif" font-size="19" fill="#fffaf1">ORIGINAL EDITORIAL ILLUSTRATION • NOT AN ACTUAL BURGER PHOTOGRAPH</text>
+</svg>

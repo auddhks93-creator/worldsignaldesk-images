@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="t d">
+<title id="t">McDonald's Korea Big Arch launch price comparison</title>
+<desc id="d">Original infographic showing reported October 2026 South Korea Big Arch launch prices. Burger 12,400 KRW, meal 13,900 KRW, and McLunch meal 13,000 KRW. Prices may vary.</desc>
+<rect width="1200" height="390" fill="#fbf7ef"/>
+<text x="58" y="73" fill="#372a1c" font-family="Georgia,serif" font-weight="700" font-size="47">Big Arch: Korea launch prices</text>
+<text x="60" y="111" fill="#776b5b" font-family="Arial,sans-serif" font-size="21">Reported October 21, 2026 • in-store prices may differ</text>
+<g font-family="Arial,sans-serif">
+<g><rect x="56" y="153" width="342" height="161" rx="13" fill="#f4e8d3"/><text x="82" y="203" fill="#604632" font-weight="700" font-size="25">BURGER ONLY</text><text x="82" y="269" fill="#281d17" font-size="54" font-weight="700">₩12,400</text></g>
+<g><rect x="429" y="153" width="342" height="161" rx="13" fill="#f0d1a6"/><text x="455" y="203" fill="#604632" font-weight="700" font-size="25">REGULAR MEAL</text><text x="455" y="269" fill="#281d17" font-size="54" font-weight="700">₩13,900</text></g>
+<g><rect x="802" y="153" width="342" height="161" rx="13" fill="#dbe0d0"/><text x="828" y="203" fill="#49563c" font-weight="700" font-size="25">McLUNCH MEAL</text><text x="828" y="269" fill="#281d17" font-size="54" font-weight="700">₩13,000</text></g>
+</g>
+<text x="59" y="359" fill="#766c60" font-family="Arial,sans-serif" font-size="19">Source: October 2026 Korea launch coverage. Verify restaurant, delivery and promotional prices.</text>
+</svg>
