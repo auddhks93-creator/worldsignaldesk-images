@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="788" viewBox="0 0 1400 788" role="img" aria-label="Independent editorial graphic with World of Warcraft Forever launch time in four US time zones">
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#111827"/><stop offset=".52" stop-color="#1d3046"/><stop offset="1" stop-color="#234e67"/></linearGradient><linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#f8d69b"/><stop offset="1" stop-color="#d6a45f"/></linearGradient><linearGradient id="card" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#243b4c" stop-opacity=".94"/><stop offset="1" stop-color="#142334" stop-opacity=".94"/></linearGradient><pattern id="star" width="115" height="97" patternUnits="userSpaceOnUse"><circle cx="24" cy="27" r="1.8" fill="#fff" fill-opacity=".28"/><circle cx="91" cy="71" r="1" fill="#fff" fill-opacity=".15"/></pattern></defs>
+<rect width="1400" height="788" fill="url(#bg)"/><rect width="1400" height="788" fill="url(#star)"/>
+<path d="M0 530L150 405L255 494L393 318L541 498L694 338L815 470L923 363L1056 526L1218 395L1400 537V788H0Z" fill="#304a56" opacity=".52"/>
+<path d="M0 642L185 514L325 602L472 500L635 631L786 521L986 649L1169 521L1400 638V788H0Z" fill="#0e2535" opacity=".85"/>
+<rect x="64" y="68" width="240" height="45" rx="22.5" fill="#caa56d" fill-opacity=".13" stroke="#f7d49a" stroke-opacity=".55"/>
+<text x="89" y="99" font-family="Arial, sans-serif" font-size="20" fill="#e8c89c" font-weight="700" letter-spacing="2">US LAUNCH GUIDE</text>
+<text x="70" y="185" font-family="Georgia,serif" font-size="60" fill="#f5f5f1" font-weight="700">World of Warcraft</text>
+<text x="70" y="265" font-family="Georgia,serif" font-size="90" fill="url(#gold)" font-weight="700">Forever</text>
+<text x="74" y="326" font-family="Arial,sans-serif" font-size="27" fill="#cfdee8">One global launch. Four American clocks.</text>
+<g transform="translate(62 389)">
+<rect width="1276" height="297" rx="25" fill="url(#card)" stroke="#b8cbd1" stroke-opacity=".38" stroke-width="2"/>
+<rect x="32" y="28" width="234" height="53" rx="12" fill="#d6aa6e"/><text x="149" y="63" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="800" fill="#1b2630">NOVEMBER 4</text>
+<text x="294" y="63" font-family="Arial,sans-serif" font-size="24" fill="#f3f4f6" font-weight="700">2026  /  United States</text>
+<line x1="30" y1="100" x2="1246" y2="100" stroke="#9cb2be" stroke-opacity=".3"/>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<text x="174" y="152" font-size="23" fill="#a9c4d4" font-weight="700">PACIFIC</text><text x="174" y="225" font-size="59" fill="#fff8e7" font-weight="800">3 PM</text><text x="174" y="258" font-size="21" fill="#e9c89a">PST</text>
+<text x="477" y="152" font-size="23" fill="#a9c4d4" font-weight="700">MOUNTAIN</text><text x="477" y="225" font-size="59" fill="#fff8e7" font-weight="800">4 PM</text><text x="477" y="258" font-size="21" fill="#e9c89a">MST</text>
+<text x="780" y="152" font-size="23" fill="#a9c4d4" font-weight="700">CENTRAL</text><text x="780" y="225" font-size="59" fill="#fff8e7" font-weight="800">5 PM</text><text x="780" y="258" font-size="21" fill="#e9c89a">CST</text>
+<text x="1083" y="152" font-size="23" fill="#a9c4d4" font-weight="700">EASTERN</text><text x="1083" y="225" font-size="59" fill="#fff8e7" font-weight="800">6 PM</text><text x="1083" y="258" font-size="21" fill="#e9c89a">EST</text>
+</g></g>
+<text x="71" y="742" font-family="Arial,sans-serif" font-size="20" fill="#bfcbd1">Official announced launch time: 3 p.m. PST  |  Not a confirmation that servers are already live</text>
+<text x="1335" y="744" font-family="Arial,sans-serif" font-size="17" fill="#9bb0bc" text-anchor="end">World Signal Gaming / Original graphic</text>
+</svg>
