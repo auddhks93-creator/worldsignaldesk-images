@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="788" viewBox="0 0 1400 788" role="img" aria-label="Independent editorial graphic with Independent editorial chart of World of Warcraft Forever US subscription and optional packs">
+<defs><linearGradient id="bg2" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#f8f5ed"/><stop offset="1" stop-color="#e7eced"/></linearGradient><filter id="shadow"><feDropShadow dx="0" dy="9" stdDeviation="9" flood-opacity=".12"/></filter></defs>
+<rect width="1400" height="788" fill="url(#bg2)"/>
+<rect x="60" y="48" width="1280" height="695" rx="28" fill="#fff" filter="url(#shadow)"/>
+<text x="94" y="117" font-family="Arial,sans-serif" font-size="20" font-weight="800" letter-spacing="2" fill="#52717c">US BUYER'S CHECKLIST · NOV 2026</text>
+<text x="94" y="183" font-family="Georgia,serif" font-size="47" font-weight="700" fill="#1c3240">What does WoW: Forever actually cost?</text>
+<rect x="96" y="212" width="1208" height="88" rx="15" fill="#163b45"/>
+<text x="124" y="247" font-family="Arial,sans-serif" font-size="21" fill="#c2d6d2" font-weight="700">BASE GAME ACCESS</text>
+<text x="124" y="281" font-family="Arial,sans-serif" font-size="30" fill="#fff" font-weight="800">Active WoW subscription or Game Time</text>
+<g font-family="Arial,sans-serif">
+<rect x="95" y="329" width="373" height="284" rx="18" fill="#f6f9f8" stroke="#b7d2d1" stroke-width="2"/>
+<rect x="513" y="329" width="373" height="284" rx="18" fill="#f6f9f8" stroke="#b7d2d1" stroke-width="2"/>
+<rect x="932" y="329" width="373" height="284" rx="18" fill="#f6f9f8" stroke="#b7d2d1" stroke-width="2"/>
+<text x="121" y="372" font-size="26" font-weight="800" fill="#194957">HEROIC PACK</text><text x="121" y="435" font-size="55" font-weight="800" fill="#1c3443">$29.99</text>
+<text x="121" y="476" font-size="22" fill="#344b57">Skyborne race</text><text x="121" y="510" font-size="22" fill="#344b57">Zephras Isle start</text><text x="121" y="544" font-size="22" fill="#344b57">1 launch-week invite</text>
+<text x="540" y="372" font-size="26" font-weight="800" fill="#194957">EPIC PACK</text><text x="540" y="435" font-size="55" font-weight="800" fill="#1c3443">$59.99</text>
+<text x="540" y="476" font-size="22" fill="#344b57">Heroic benefits</text><text x="540" y="510" font-size="22" fill="#344b57">+ 30 days Game Time</text><text x="540" y="544" font-size="22" fill="#344b57">3 launch-week invites</text>
+<text x="958" y="372" font-size="26" font-weight="800" fill="#194957">COLLECTION</text><text x="958" y="435" font-size="55" font-weight="800" fill="#1c3443">$79.99</text>
+<text x="958" y="476" font-size="22" fill="#344b57">Epic benefits</text><text x="958" y="510" font-size="22" fill="#344b57">+ Warcraft III: Reforged</text><text x="958" y="544" font-size="22" fill="#344b57">+ Forsaken Kingdom</text>
+</g>
+<text x="102" y="664" font-family="Arial,sans-serif" font-size="23" font-weight="800" fill="#1a4754">All three packs are optional. None replaces an ongoing subscription.</text>
+<text x="102" y="698" font-family="Arial,sans-serif" font-size="18" fill="#607680">US prices: published Battle.net listings. Verify checkout and sales tax before purchase.</text>
+<text x="1300" y="724" font-family="Arial,sans-serif" font-size="17" text-anchor="end" fill="#819398">World Signal Gaming / Original graphic</text>
+</svg>
