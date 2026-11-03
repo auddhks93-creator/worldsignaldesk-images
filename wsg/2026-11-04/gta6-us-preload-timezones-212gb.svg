@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+<title id="title">GTA 6 U.S. pre-load times across four time zones and storage guide</title>
+<desc id="desc">An original high-contrast infographic comparing Xbox Series X and S U.S. Nov 9 pre-load times Eastern 7 PM, Central 6 PM, Mountain 5 PM and Pacific 4 PM; PS5 begins Nov 10 at local midnight; up to 212 GB available storage; code-in-box Nov 12 and game launch Nov 19.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7fbff"/><stop offset="1" stop-color="#e8f2fb"/></linearGradient>
+<linearGradient id="header" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#102843"/><stop offset="1" stop-color="#284b72"/></linearGradient>
+<linearGradient id="storage" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#efe6ff"/><stop offset="1" stop-color="#f6e8fc"/></linearGradient>
+<filter id="drop"><feDropShadow dx="0" dy="9" stdDeviation="12" flood-color="#1f4568" flood-opacity=".12"/></filter>
+</defs>
+<rect width="1600" height="900" fill="url(#bg)"/>
+<rect x="0" y="0" width="1600" height="167" fill="url(#header)"/>
+<rect x="81" y="39" width="270" height="39" rx="20" fill="#2b8b9e"/>
+<text x="216" y="66" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="2" font-weight="800" fill="white">U.S. MARKET GUIDE</text>
+<text x="82" y="135" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="900" fill="#ffffff">GTA 6 PRELOAD: THE U.S. CLOCK</text>
+<rect x="1266" y="51" width="255" height="54" rx="27" fill="#e8f0fb" opacity=".95"/>
+<text x="1394" y="85" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="800" fill="#183c61">NOV 4, 2026 UPDATE</text>
+<rect x="73" y="190" width="1454" height="328" rx="22" fill="#fff" stroke="#cadce9" stroke-width="2" filter="url(#drop)"/>
+<rect x="73" y="190" width="1454" height="83" rx="22" fill="#1d463a"/>
+<path d="M73 254 h1454 v30 h-1454z" fill="#1d463a"/>
+<text x="108" y="242" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="900" fill="#ffffff">XBOX SERIES X|S</text>
+<text x="1511" y="243" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700" fill="#b6f6d9">MON, NOV 9</text>
+<text x="108" y="305" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" fill="#517187">Global start: Nov 10 at 12:00 AM GMT (same instant worldwide)</text>
+<g>
+<rect x="96" y="328" width="333" height="158" rx="15" fill="#f1faf4" stroke="#9cd5b1" stroke-width="2"/>
+<rect x="446" y="328" width="333" height="158" rx="15" fill="#f1faf4" stroke="#9cd5b1" stroke-width="2"/>
+<rect x="796" y="328" width="333" height="158" rx="15" fill="#f1faf4" stroke="#9cd5b1" stroke-width="2"/>
+<rect x="1146" y="328" width="352" height="158" rx="15" fill="#f1faf4" stroke="#9cd5b1" stroke-width="2"/>
+<text x="123" y="374" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#3c6950">EASTERN (EST)</text>
+<text x="472" y="374" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#3c6950">CENTRAL (CST)</text>
+<text x="822" y="374" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#3c6950">MOUNTAIN (MST)</text>
+<text x="1172" y="374" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" fill="#3c6950">PACIFIC (PST)</text>
+<text x="123" y="444" font-family="Arial,Helvetica,sans-serif" font-size="55" font-weight="900" fill="#153f2d">7:00 PM</text>
+<text x="472" y="444" font-family="Arial,Helvetica,sans-serif" font-size="55" font-weight="900" fill="#153f2d">6:00 PM</text>
+<text x="822" y="444" font-family="Arial,Helvetica,sans-serif" font-size="55" font-weight="900" fill="#153f2d">5:00 PM</text>
+<text x="1172" y="444" font-family="Arial,Helvetica,sans-serif" font-size="55" font-weight="900" fill="#153f2d">4:00 PM</text>
+</g>
+<rect x="73" y="539" width="925" height="169" rx="22" fill="#163d67" filter="url(#drop)"/>
+<text x="108" y="591" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="900" fill="#ffffff">PLAYSTATION 5</text>
+<text x="968" y="591" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700" fill="#c5e8ff">TUE, NOV 10</text>
+<text x="108" y="655" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="900" fill="#8fe0ff">12:00 AM</text>
+<text x="397" y="655" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="700" fill="#ffffff">LOCAL TIME IN EACH U.S. ZONE</text>
+<rect x="1018" y="539" width="509" height="169" rx="22" fill="url(#storage)" stroke="#d4c0f4" stroke-width="2" filter="url(#drop)"/>
+<text x="1050" y="588" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="800" fill="#5b3f8b">AVAILABLE STORAGE</text>
+<text x="1050" y="650" font-family="Arial,Helvetica,sans-serif" font-size="63" font-weight="900" fill="#30215f">UP TO 212 GB</text>
+<text x="1050" y="687" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#65557d">Free space, not a fixed download size</text>
+<rect x="73" y="729" width="707" height="104" rx="18" fill="#fff" stroke="#b9d2e4" stroke-width="2"/>
+<rect x="799" y="729" width="728" height="104" rx="18" fill="#fff" stroke="#b9d2e4" stroke-width="2"/>
+<rect x="93" y="748" width="9" height="65" rx="4" fill="#29abb6"/>
+<rect x="819" y="748" width="9" height="65" rx="4" fill="#e375a4"/>
+<text x="121" y="767" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#43738a">CODE-IN-BOX · NO DISC</text>
+<text x="121" y="804" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="900" fill="#173c56">RETAIL FROM NOV 12</text>
+<text x="849" y="767" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" fill="#8a5370">PRELOAD DOES NOT MEAN PLAY</text>
+<text x="849" y="804" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="900" fill="#173c56">RELEASE: NOV 19</text>
+<text x="78" y="877" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#667b8f">World Signal Gaming original infographic · U.S. time zones use standard time in November · No official game imagery used</text>
+</svg>
