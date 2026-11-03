@@ -41,7 +41,7 @@
 <text x="397" y="655" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="700" fill="#ffffff">LOCAL TIME IN EACH U.S. ZONE</text>
 <rect x="1018" y="539" width="509" height="169" rx="22" fill="url(#storage)" stroke="#d4c0f4" stroke-width="2" filter="url(#drop)"/>
 <text x="1050" y="588" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="800" fill="#5b3f8b">AVAILABLE STORAGE</text>
-<text x="1050" y="650" font-family="Arial,Helvetica,sans-serif" font-size="63" font-weight="900" fill="#30215f">UP TO 212 GB</text>
+<text x="1050" y="650" font-family="Arial,Helvetica,sans-serif" font-size="56" font-weight="900" fill="#30215f">UP TO 212 GB</text>
 <text x="1050" y="687" font-family="Arial,Helvetica,sans-serif" font-size="20" fill="#65557d">Free space, not a fixed download size</text>
 <rect x="73" y="729" width="707" height="104" rx="18" fill="#fff" stroke="#b9d2e4" stroke-width="2"/>
 <rect x="799" y="729" width="728" height="104" rx="18" fill="#fff" stroke="#b9d2e4" stroke-width="2"/>
