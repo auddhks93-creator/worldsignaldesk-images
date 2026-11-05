@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="800" viewBox="0 0 1440 800" role="img" aria-labelledby="t d">
+<title id="t">Age of Wonders 4: three different November 2026 offers</title>
+<desc id="d">Original World Signal Gaming nautical editorial chart: November 5–9 temporary base-game trial on Steam and Xbox; free Manta Update for existing owners; separate $24.99 Silver Seas expansion. Ocean outposts are free; Mercantile sea cities require the paid expansion.</desc>
+<defs>
+<linearGradient id="sea" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071e2d"/><stop offset=".62" stop-color="#10394a"/><stop offset="1" stop-color="#0f4e5b"/></linearGradient>
+<pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse"><path d="M56 0H0V56" fill="none" stroke="#b3d7d1" opacity=".08" stroke-width="1"/></pattern>
+<linearGradient id="sand" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#efdfbf"/><stop offset="1" stop-color="#f7eedc"/></linearGradient>
+</defs>
+<rect width="1440" height="800" fill="url(#sea)"/>
+<rect width="1440" height="800" fill="url(#grid)"/>
+<path d="M-70 550 C180 420 320 570 500 480 S880 300 1090 430 S1370 540 1540 380" fill="none" stroke="#96c6be" stroke-opacity=".24" stroke-width="2"/>
+<path d="M-110 611 C200 492 370 634 560 545 S935 410 1120 525 S1400 627 1520 491" fill="none" stroke="#96c6be" stroke-opacity=".17" stroke-width="2"/>
+<path d="M-90 676 C170 558 400 706 630 615 S940 493 1140 608 S1390 720 1540 593" fill="none" stroke="#96c6be" stroke-opacity=".12" stroke-width="2"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="76" y="75" font-size="21" font-weight="700" letter-spacing="5" fill="#e0aa70">WORLD SIGNAL GAMING / BUYER'S CHART</text>
+<text x="74" y="152" font-family="Georgia,serif" font-size="58" fill="#f7eee0">One game. Three different offers.</text>
+<text x="76" y="198" font-size="24" fill="#c8dbd5">Age of Wonders 4  ·  U.S.  ·  November 2026</text>
+<path d="M76 231 H1364" stroke="#7cb7b3" stroke-opacity=".65" stroke-width="2"/>
+<g transform="translate(76 273)">
+<circle cx="43" cy="43" r="42" fill="#e3b67d"/><text x="43" y="55" text-anchor="middle" font-family="Georgia,serif" font-size="34" fill="#122e38">01</text>
+<text x="110" y="29" font-size="17" font-weight="700" letter-spacing="2" fill="#efccaa">LIMITED-TIME ACCESS</text>
+<text x="110" y="71" font-family="Georgia,serif" font-size="31" fill="#fffaf2">Base-game trial</text>
+<text x="110" y="108" font-size="19" fill="#cce1de">Steam + Xbox  |  Nov 5–9</text>
+<text x="110" y="140" font-size="18" fill="#e0ae7b">Not free to keep</text>
+</g>
+<path d="M496 280 V511" stroke="#a7c9c3" stroke-dasharray="4 11" opacity=".48"/>
+<g transform="translate(524 273)">
+<circle cx="43" cy="43" r="42" fill="#9ccbc6"/><text x="43" y="55" text-anchor="middle" font-family="Georgia,serif" font-size="34" fill="#0a3341">02</text>
+<text x="110" y="29" font-size="17" font-weight="700" letter-spacing="2" fill="#c4e9e2">BASE-GAME OWNERS</text>
+<text x="110" y="71" font-family="Georgia,serif" font-size="31" fill="#fffaf2">Manta update</text>
+<text x="110" y="108" font-size="19" fill="#cce1de">Trade Routes + sea outposts</text>
+<text x="110" y="140" font-size="18" fill="#a8e0d2">Free update</text>
+</g>
+<path d="M944 280 V511" stroke="#a7c9c3" stroke-dasharray="4 11" opacity=".48"/>
+<g transform="translate(971 273)">
+<circle cx="43" cy="43" r="42" fill="#e8b97e"/><text x="43" y="55" text-anchor="middle" font-family="Georgia,serif" font-size="34" fill="#122e38">03</text>
+<text x="110" y="29" font-size="17" font-weight="700" letter-spacing="2" fill="#efccaa">SEPARATE DLC</text>
+<text x="110" y="71" font-family="Georgia,serif" font-size="31" fill="#fffaf2">The Silver Seas</text>
+<text x="110" y="108" font-size="19" fill="#cce1de">Mercantile sea cities + more</text>
+<text x="110" y="140" font-size="18" fill="#e8b97e">$24.99 suggested U.S. price</text>
+</g>
+<path d="M76 493 H1364" stroke="#7cb7b3" stroke-opacity=".65" stroke-width="2"/>
+<rect x="76" y="529" width="1288" height="192" rx="5" fill="url(#sand)"/>
+<circle cx="137" cy="605" r="35" stroke="#1f6170" stroke-width="5" fill="none"/><path d="M121 609 l13 13 27 -33" fill="none" stroke="#1f6170" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="202" y="584" fill="#163a48" font-family="Georgia,serif" font-size="34">The catch: an outpost is not a city.</text>
+<text x="204" y="628" fill="#365766" font-size="22">Manta lets owners build ocean outposts. Turning them into cities</text>
+<text x="204" y="661" fill="#365766" font-size="22">requires the paid expansion's Mercantile culture.</text>
+<text x="76" y="770" font-size="17" fill="#d1dfdc">Original editorial illustration  ·  Based on Paradox / Triumph release and patch notes  ·  Not gameplay footage</text>
+</g></svg>
