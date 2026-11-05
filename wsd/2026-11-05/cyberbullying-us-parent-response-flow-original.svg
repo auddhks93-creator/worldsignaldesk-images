@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="1130" viewBox="0 0 1280 1130" role="img" aria-labelledby="title desc">
+<title id="title">Parent's cyberbullying response decision path</title>
+<desc id="desc">Original practical diagram: decide immediate danger, preserve ordinary non-explicit evidence, report and block, contact school if learning is affected, use 988 for emotional crisis support, 911 for emergency, and CyberTipline for child sexual exploitation.</desc>
+<rect width="1280" height="1130" fill="#F6F4EE"/>
+<rect x="0" y="0" width="17" height="1130" fill="#527C74"/>
+<g font-family="Arial,sans-serif">
+<text x="86" y="92" font-size="24" letter-spacing="4" fill="#50625F" font-weight="bold">PARENT RESPONSE GUIDE  /  UNITED STATES</text>
+<text x="85" y="156" font-family="Georgia,serif" font-size="55" fill="#173532">When your child tells you</text>
+<text x="85" y="219" font-family="Georgia,serif" font-size="55" fill="#173532">they are being targeted online</text>
+<text x="88" y="272" font-size="23" fill="#526560">Start with safety. Do not demand that your child solve it alone.</text>
+<path d="M85 308H1195" stroke="#A8B3AB" stroke-width="2"/>
+<text x="86" y="368" font-size="23" fill="#41675D" font-weight="bold" letter-spacing="2">FIRST QUESTION</text>
+<text x="86" y="424" font-family="Georgia,serif" font-size="39" fill="#173532">Is there immediate danger or a credible threat?</text>
+<path d="M88 460H1190" stroke="#B6BEB8" stroke-width="2"/>
+<path d="M397 459V531" stroke="#8A8F87" stroke-width="3"/>
+<path d="M902 459V531" stroke="#8A8F87" stroke-width="3"/>
+<text x="255" y="508" fill="#8F3830" font-size="28" font-weight="bold">YES / URGENT</text>
+<text x="771" y="508" fill="#24665A" font-size="28" font-weight="bold">NO IMMEDIATE DANGER</text>
+<path d="M92 539H605V694H92Z" fill="#F2E7E2" stroke="#B87064" stroke-width="2"/>
+<text x="120" y="593" fill="#81382F" font-size="29" font-weight="bold">Call 911 in an emergency.</text>
+<text x="120" y="634" fill="#6A4C46" font-size="22">Violence, immediate threat,</text>
+<text x="120" y="665" fill="#6A4C46" font-size="22">or imminent physical danger.</text>
+<path d="M661 539H1192V694H661Z" fill="#E6F0EB" stroke="#82A198" stroke-width="2"/>
+<text x="689" y="589" fill="#1F564D" font-size="29" font-weight="bold">Listen and document.</text>
+<text x="689" y="631" fill="#45685F" font-size="22">Note dates, messages, accounts.</text>
+<text x="689" y="663" fill="#45685F" font-size="22">Do not reply or forward abuse.</text>
+<path d="M921 696V743" stroke="#527C74" stroke-width="3"/><path d="M912 733L921 746 930 733" fill="none" stroke="#527C74" stroke-width="3"/>
+<text x="91" y="781" fill="#41675D" font-size="22" font-weight="bold" letter-spacing="2">NEXT STEP</text>
+<text x="90" y="840" font-family="Georgia,serif" fill="#173532" font-size="39">Report to the platform and block the account.</text>
+<text x="90" y="891" fill="#53645E" font-size="23">If school life is affected, contact the school with a factual record.</text>
+<path d="M86 931H1194" stroke="#B6BEB8" stroke-width="2"/>
+<text x="86" y="977" fill="#173532" font-size="25" font-weight="bold">Additional routes, when needed</text>
+<text x="86" y="1014" fill="#526560" font-size="21">Emotional crisis: call or text 988  ·  Child sexual exploitation: NCMEC CyberTipline</text>
+<text x="86" y="1053" fill="#526560" font-size="19">Do not download or forward sexual images of minors.</text>
+<path d="M86 1080H1194" stroke="#B6BEB8" stroke-width="1"/>
+<text x="86" y="1110" fill="#6C756E" font-size="17">Original editorial flowchart • Guidance derived from StopBullying.gov, 988 Lifeline, and NCMEC</text>
+</g></svg>
