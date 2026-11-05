@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="800" viewBox="0 0 1440 800" role="img" aria-labelledby="title desc">
+<title id="title">1998 to 2026: what changes when Ocarina of Time is remade</title>
+<desc id="desc">Original editorial schematic showing the evolution from fixed-feeling N64 camera and movement to modern Switch 2 controls, orchestral score, voice acting and an optional microphone ocarina. Not Nintendo gameplay footage.</desc>
+<rect width="1440" height="800" fill="#EDE9DF"/>
+<path d="M0 0H1440V110H0Z" fill="#1B292B"/>
+<text x="78" y="47" fill="#D4E8DE" font-family="Arial, sans-serif" font-size="17" font-weight="bold" letter-spacing="5">WORLD SIGNAL GAMING  /  EDITORIAL FIELD NOTES</text>
+<text x="78" y="89" fill="#FFFFFF" font-family="Georgia,serif" font-size="25">The same adventure. A different way to inhabit it.</text>
+<text x="70" y="222" fill="#8A8379" font-family="Arial, sans-serif" font-size="104" font-weight="bold">1998</text>
+<text x="1130" y="222" fill="#186858" font-family="Arial, sans-serif" font-size="104" font-weight="bold">2026</text>
+<path d="M70 258H1370" stroke="#958A7A" stroke-width="2"/>
+<text x="76" y="290" fill="#4F4F4C" font-family="Arial,sans-serif" font-size="18" letter-spacing="4">THE ORIGINAL PLAY FEEL</text>
+<text x="957" y="290" fill="#186858" font-family="Arial,sans-serif" font-size="18" letter-spacing="4">NINTENDO SWITCH 2</text>
+<path d="M721 308V716" stroke="#968F80" stroke-width="1.5" stroke-dasharray="5 10"/>
+<g font-family="Arial,sans-serif">
+<text x="80" y="368" fill="#272A27" font-size="30" font-weight="bold">CAMERA</text>
+<text x="80" y="406" fill="#6C665E" font-size="24">An N64-era viewpoint</text>
+<path d="M546 385H892" stroke="#186858" stroke-width="3"/><path d="M884 379L896 385 884 391" fill="none" stroke="#186858" stroke-width="3"/>
+<text x="947" y="366" fill="#1B292B" font-size="28" font-weight="bold">Modern camera movement</text>
+<text x="947" y="405" fill="#4F756C" font-size="19">Nintendo-confirmed</text>
+<path d="M80 450H1360" stroke="#BBB5A9" stroke-width="1"/>
+<text x="80" y="512" fill="#272A27" font-size="30" font-weight="bold">MOVEMENT</text>
+<text x="80" y="550" fill="#6C665E" font-size="24">A more deliberate pace</text>
+<path d="M546 525H892" stroke="#186858" stroke-width="3"/><path d="M884 519L896 525 884 531" fill="none" stroke="#186858" stroke-width="3"/>
+<text x="947" y="505" fill="#1B292B" font-size="28" font-weight="bold">Jump + dash and reworked input</text>
+<text x="947" y="545" fill="#4F756C" font-size="19">Nintendo-confirmed</text>
+<path d="M80 594H1360" stroke="#BBB5A9" stroke-width="1"/>
+<text x="80" y="657" fill="#272A27" font-size="30" font-weight="bold">SOUND</text>
+<text x="80" y="695" fill="#6C665E" font-size="24">Iconic melodies</text>
+<path d="M546 669H892" stroke="#186858" stroke-width="3"/><path d="M884 663L896 669 884 675" fill="none" stroke="#186858" stroke-width="3"/>
+<text x="947" y="642" fill="#1B292B" font-size="27" font-weight="bold">Orchestra + voiced scenes</text>
+<text x="947" y="680" fill="#4F756C" font-size="19">Mic ocarina optional, buttons remain</text>
+</g>
+<path d="M0 749H1440V800H0Z" fill="#1B292B"/>
+<text x="70" y="781" fill="#DCE8DC" font-family="Arial,sans-serif" font-size="19">Original comparison diagram • Based on Nintendo's announced features • Not a gameplay screenshot</text>
+</svg>
