@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="810" viewBox="0 0 1440 810" role="img" aria-labelledby="title desc">
+<title id="title">WoW Forever beginner bag reset and town routine</title><desc id="desc">Original editorial illustration showing a stylized generic travel backpack, with three practical habits: sell gray junk, keep quest items and materials, repair gear and learn flight paths. Not game interface.</desc>
+<rect width="1440" height="810" fill="#1d302d"/>
+<path d="M0 136 H1440 M0 742 H1440" stroke="#9fb3a2" stroke-opacity=".24" stroke-width="2"/>
+<text x="95" y="90" font-family="Arial,sans-serif" font-size="23" letter-spacing="3" fill="#c6ad7e">THE TRAVELER'S NOTEBOOK</text>
+<text x="95" y="164" font-family="Georgia,serif" font-size="64" font-weight="700" fill="#f6f2e6">A bag full of junk</text>
+<text x="95" y="218" font-family="Georgia,serif" font-size="36" fill="#d4dfd5">should not end your adventure.</text>
+<circle cx="330" cy="488" r="204" fill="#2f4942"/>
+<ellipse cx="332" cy="672" rx="175" ry="30" fill="#122a27" opacity=".65"/>
+<path d="M253 362 Q249 289 330 287 Q414 287 410 363" stroke="#d1ae7a" stroke-width="29" fill="none" stroke-linecap="round"/>
+<rect x="205" y="357" width="250" height="270" rx="49" fill="#b2794d" stroke="#e5c89a" stroke-width="10"/>
+<path d="M210 428 H450 M210 566 H450" stroke="#8d5739" stroke-width="12"/>
+<rect x="250" y="452" width="160" height="121" rx="14" fill="#8e5e40" stroke="#e7c58e" stroke-width="6"/>
+<path d="M307 452 V568 M353 452 V568" stroke="#c49560" stroke-width="9"/>
+<rect x="289" y="393" width="84" height="26" rx="13" fill="#edce8b"/>
+<text x="330" y="610" text-anchor="middle" font-family="Georgia,serif" font-size="18" fill="#ffebca">ILLUSTRATION</text>
+<path d="M572 286 H1315" stroke="#638579" stroke-width="2"/>
+<circle cx="604" cy="353" r="30" fill="#d8b276"/><text x="604" y="365" font-family="Arial,sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#1d302d">1</text>
+<text x="657" y="359" font-family="Georgia,serif" font-size="39" fill="#faf4e4">Sell gray-quality items</text>
+<text x="657" y="394" font-family="Arial,sans-serif" font-size="23" fill="#c5d1c6">Check tooltips before discarding anything else.</text>
+<path d="M572 436 H1315" stroke="#638579" stroke-width="2"/>
+<circle cx="604" cy="497" r="30" fill="#d8b276"/><text x="604" y="508" font-family="Arial,sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#1d302d">2</text>
+<text x="657" y="503" font-family="Georgia,serif" font-size="39" fill="#faf4e4">Keep quest materials</text>
+<text x="657" y="538" font-family="Arial,sans-serif" font-size="23" fill="#c5d1c6">Use the bank for useful items you can store.</text>
+<path d="M572 585 H1315" stroke="#638579" stroke-width="2"/>
+<circle cx="604" cy="647" r="30" fill="#d8b276"/><text x="604" y="658" font-family="Arial,sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#1d302d">3</text>
+<text x="657" y="651" font-family="Georgia,serif" font-size="37" fill="#faf4e4">Repair. Train. Learn routes.</text>
+<text x="657" y="687" font-family="Arial,sans-serif" font-size="23" fill="#c5d1c6">Make every town visit count.</text>
+<text x="95" y="781" font-family="Arial,sans-serif" font-size="18" fill="#aabcb0">WORLD SIGNAL GAMING ORIGINAL EDITORIAL GRAPHIC  •  NOT AN IN-GAME SCREENSHOT  •  11 NOV 2026</text>
+</svg>
