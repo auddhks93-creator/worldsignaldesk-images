@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
+<title id="title">WoW Forever class selection based on playstyle</title>
+<desc id="desc">Original World Signal Gaming editorial decision map showing three playstyle priorities: solo questing with Hunter, Warlock, Druid; tactical PvP with Rogue, Mage; group utility with Warrior, Priest, Paladin, Shaman. These are editorial fits, not game balance rankings.</desc>
+<rect width="1440" height="900" fill="#f6f1e8"/>
+<path d="M84 80 H1356" stroke="#c0b7a6" stroke-width="2"/>
+<text x="94" y="65" font-family="Arial,sans-serif" font-size="20" letter-spacing="4" fill="#6f675b">WORLD SIGNAL GAMING / INDEPENDENT EDITORIAL GUIDE</text>
+<text x="94" y="166" font-family="Georgia,serif" font-size="70" fill="#2a382f" font-weight="bold">Choose the feeling,</text>
+<text x="94" y="241" font-family="Georgia,serif" font-size="70" fill="#2a382f" font-weight="bold">not the tier list.</text>
+<text x="95" y="292" font-family="Arial,sans-serif" font-size="26" fill="#6a675d">Three starting questions before creating your Forever character</text>
+<path d="M714 330 V380" stroke="#8b8476" stroke-width="3"/>
+<circle cx="714" cy="386" r="9" fill="#8b8476"/>
+<path d="M272 386 H1176" stroke="#8b8476" stroke-width="3"/>
+<path d="M272 386 V431 M714 386 V431 M1176 386 V431" stroke="#8b8476" stroke-width="3"/>
+<rect x="90" y="431" width="366" height="333" fill="#e4e9df" rx="12"/>
+<rect x="537" y="431" width="354" height="333" fill="#e8e3da" rx="12"/>
+<rect x="971" y="431" width="378" height="333" fill="#e0e8ea" rx="12"/>
+<circle cx="133" cy="472" r="17" fill="#40694d"/><text x="164" y="480" font-family="Arial,sans-serif" font-size="21" letter-spacing="1.3" fill="#40694d" font-weight="bold">SOLO</text>
+<text x="114" y="536" font-family="Georgia,serif" font-size="37" fill="#263b2e">I explore alone.</text>
+<line x1="112" y1="558" x2="432" y2="558" stroke="#8fac93" stroke-width="2"/>
+<text x="114" y="605" font-family="Arial,sans-serif" font-size="28" fill="#2c4937">Hunter</text>
+<text x="114" y="647" font-family="Arial,sans-serif" font-size="28" fill="#2c4937">Warlock</text>
+<text x="114" y="689" font-family="Arial,sans-serif" font-size="28" fill="#2c4937">Druid</text>
+<text x="114" y="737" font-family="Arial,sans-serif" font-size="18" fill="#5f6d60">Pets, sustain, flexibility</text>
+<circle cx="580" cy="472" r="17" fill="#98623f"/><text x="610" y="480" font-family="Arial,sans-serif" font-size="21" letter-spacing="1.3" fill="#98623f" font-weight="bold">PVP</text>
+<text x="561" y="536" font-family="Georgia,serif" font-size="35" fill="#493b31">I want duels.</text>
+<line x1="560" y1="558" x2="869" y2="558" stroke="#b8a38f" stroke-width="2"/>
+<text x="560" y="605" font-family="Arial,sans-serif" font-size="28" fill="#67452e">Rogue</text>
+<text x="560" y="647" font-family="Arial,sans-serif" font-size="28" fill="#67452e">Mage</text>
+<text x="560" y="737" font-family="Arial,sans-serif" font-size="18" fill="#695f53">Control, resets, positioning</text>
+<circle cx="1014" cy="472" r="17" fill="#406783"/><text x="1046" y="480" font-family="Arial,sans-serif" font-size="21" letter-spacing="1.3" fill="#406783" font-weight="bold">GROUP</text>
+<text x="993" y="536" font-family="Georgia,serif" font-size="33" fill="#264256">I like team roles.</text>
+<line x1="991" y1="558" x2="1326" y2="558" stroke="#92aaba" stroke-width="2"/>
+<text x="994" y="605" font-family="Arial,sans-serif" font-size="26" fill="#2d4f61">Warrior / Priest</text>
+<text x="994" y="647" font-family="Arial,sans-serif" font-size="26" fill="#2d4f61">Paladin / Shaman</text>
+<text x="994" y="737" font-family="Arial,sans-serif" font-size="18" fill="#5b6c76">Tank, healing, utility</text>
+<path d="M88 812 H1353" stroke="#bcb2a2" stroke-width="2"/>
+<text x="94" y="856" font-family="Arial,sans-serif" font-size="20" fill="#777267">Editorial playstyle matches, not measured DPS, arena win rates, or permanent rankings. / 11 NOV 2026</text>
+</svg>
