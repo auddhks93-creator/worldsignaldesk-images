@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="850" viewBox="0 0 1440 850" role="img" aria-labelledby="title desc">
+<title id="title">WoW Forever beginner leveling route: levels 1–20</title><desc id="desc">Original World Signal Gaming route sheet: starter zone levels 1–10, Horde Barrens or Silverpine and Alliance Westfall, Loch Modan or Darkshore about 10–20, and first optional dungeons Hall of Thanes 13–18 and Ruins of Lordaeron 15–20. Not an in-game map.</desc>
+<rect width="1440" height="850" fill="#eee9dd"/>
+<path d="M80 40 V810 M1360 40 V810" stroke="#b8b3a6" stroke-width="2"/>
+<text x="95" y="95" font-family="Georgia,serif" font-size="25" letter-spacing="3" fill="#577368">WORLD SIGNAL GAMING  /  ORIGINAL FIELD MAP</text>
+<text x="95" y="174" font-family="Georgia,serif" font-size="63" font-weight="700" fill="#22382f">Your first 20 levels</text>
+<text x="95" y="216" font-family="Arial,sans-serif" font-size="27" fill="#53645d">An adaptable route, not a mandatory speedrun</text>
+<line x1="95" x2="1345" y1="255" y2="255" stroke="#aebcb0" stroke-width="3"/>
+<circle cx="186" cy="365" r="53" fill="#305849"/><text x="186" y="359" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="bold" fill="#fff">01</text><text x="186" y="385" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#dce8df">LEVELS</text>
+<path d="M242 365 H470" stroke="#647f70" stroke-width="8" stroke-linecap="round"/><path d="M453 349 L478 365 453 381" fill="none" stroke="#647f70" stroke-width="8"/>
+<text x="95" y="457" font-family="Georgia,serif" font-size="36" fill="#243a2d">1–10</text>
+<text x="95" y="493" font-family="Arial,sans-serif" font-size="24" fill="#4b5951">Finish your starting area</text>
+<text x="95" y="528" font-family="Arial,sans-serif" font-size="21" fill="#6d766e">Learn abilities and flight paths</text>
+<rect x="520" y="287" width="795" height="307" rx="9" fill="#fffdfa" stroke="#c8ccbf" stroke-width="2"/>
+<rect x="545" y="314" width="9" height="110" rx="4" fill="#a55a3a"/>
+<text x="576" y="351" font-family="Arial,sans-serif" font-size="22" font-weight="bold" letter-spacing="1" fill="#a55a3a">HORDE / ROUGHLY 10–20</text>
+<text x="576" y="392" font-family="Georgia,serif" font-size="36" fill="#23382d">The Barrens  ·  Silverpine Forest</text>
+<line x1="549" x2="1292" y1="450" y2="450" stroke="#dedfd6" stroke-width="2"/>
+<rect x="545" y="479" width="9" height="86" rx="4" fill="#476d91"/>
+<text x="576" y="510" font-family="Arial,sans-serif" font-size="22" font-weight="bold" letter-spacing="1" fill="#476d91">ALLIANCE / ROUGHLY 10–20</text>
+<text x="576" y="552" font-family="Georgia,serif" font-size="31" fill="#23382d">Westfall  ·  Loch Modan  ·  Darkshore</text>
+<path d="M95 647 H1345" stroke="#acb6a7" stroke-width="3"/>
+<circle cx="132" cy="695" r="18" fill="#547565"/><path d="M127 695 L132 700 140 687" stroke="#fff" fill="none" stroke-width="3"/>
+<text x="170" y="701" font-family="Arial,sans-serif" font-size="23" fill="#33443b">At levels 13–20, optional group dungeons begin to open</text>
+<text x="170" y="744" font-family="Georgia,serif" font-size="24" fill="#3e594d">Hall of Thanes 13–18  /  Ruins of Lordaeron 15–20</text>
+<text x="95" y="803" font-family="Arial,sans-serif" font-size="18" fill="#798378">Zone choices depend on faction, starting location and quest availability  •  Not a gameplay screenshot  •  11 Nov 2026</text>
+</svg>
