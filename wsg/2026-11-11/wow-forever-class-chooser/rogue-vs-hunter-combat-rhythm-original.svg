@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="810" viewBox="0 0 1440 810" role="img" aria-labelledby="title desc">
+<title id="title">Rogue versus Hunter in WoW Forever: two combat rhythms</title>
+<desc id="desc">An original typography-first conceptual editorial illustration contrasting Rogue's stealth, engage, control, reset rhythm against Hunter's scout, use companion, maintain distance, recover rhythm, without representing game screenshots or invented mechanics.</desc>
+<rect width="1440" height="810" fill="#13272a"/>
+<path d="M720 110 V700" stroke="#7d8d80" stroke-opacity=".5" stroke-width="2"/>
+<text x="87" y="73" font-family="Arial,sans-serif" font-size="19" letter-spacing="4" fill="#bead8f">WORLD SIGNAL GAMING / COMBAT RHYTHM</text>
+<text x="87" y="149" font-family="Georgia,serif" font-size="52" fill="#f0e4cb">Two kinds of control</text>
+<text x="87" y="192" font-family="Arial,sans-serif" font-size="24" fill="#afc4b5">A style comparison, not a tier ranking or actual game footage</text>
+<rect x="85" y="243" width="575" height="96" rx="10" fill="#274943"/>
+<rect x="778" y="243" width="575" height="96" rx="10" fill="#334c5e"/>
+<text x="116" y="304" font-family="Georgia,serif" font-size="49" fill="#f8f1df">ROGUE</text>
+<text x="812" y="304" font-family="Georgia,serif" font-size="49" fill="#f8f1df">HUNTER</text>
+<path d="M100 406 H642" stroke="#557b71" stroke-width="4"/>
+<path d="M800 406 H1338" stroke="#6689a1" stroke-width="4"/>
+<circle cx="142" cy="406" r="15" fill="#ddb889"/><circle cx="289" cy="406" r="15" fill="#ddb889"/><circle cx="436" cy="406" r="15" fill="#ddb889"/><circle cx="584" cy="406" r="15" fill="#ddb889"/>
+<circle cx="842" cy="406" r="15" fill="#b7d8db"/><circle cx="989" cy="406" r="15" fill="#b7d8db"/><circle cx="1136" cy="406" r="15" fill="#b7d8db"/><circle cx="1284" cy="406" r="15" fill="#b7d8db"/>
+<text x="105" y="457" font-family="Arial,sans-serif" font-size="24" fill="#f2dbb7">Stealth</text>
+<text x="257" y="457" font-family="Arial,sans-serif" font-size="24" fill="#f2dbb7">Engage</text>
+<text x="400" y="457" font-family="Arial,sans-serif" font-size="24" fill="#f2dbb7">Control</text>
+<text x="553" y="457" font-family="Arial,sans-serif" font-size="24" fill="#f2dbb7">Reset</text>
+<text x="808" y="457" font-family="Arial,sans-serif" font-size="24" fill="#dbedf1">Scout</text>
+<text x="949" y="457" font-family="Arial,sans-serif" font-size="24" fill="#dbedf1">Pet</text>
+<text x="1090" y="457" font-family="Arial,sans-serif" font-size="24" fill="#dbedf1">Range</text>
+<text x="1252" y="457" font-family="Arial,sans-serif" font-size="24" fill="#dbedf1">Reset</text>
+<path d="M105 530 h530 a20 20 0 0 1 20 20 v103 a20 20 0 0 1 -20 20 h-530 a20 20 0 0 1 -20 -20 v-103 a20 20 0 0 1 20 -20" fill="#1d3b38" stroke="#527168" stroke-width="2"/>
+<path d="M798 530 h530 a20 20 0 0 1 20 20 v103 a20 20 0 0 1 -20 20 h-530 a20 20 0 0 1 -20 -20 v-103 a20 20 0 0 1 20 -20" fill="#243e50" stroke="#5f7e96" stroke-width="2"/>
+<text x="120" y="577" font-family="Georgia,serif" font-size="28" fill="#f5e8cb">I choose when to fight.</text>
+<text x="120" y="614" font-family="Arial,sans-serif" font-size="21" fill="#bfd0c8">Strong setup tools; positioning matters.</text>
+<text x="811" y="577" font-family="Georgia,serif" font-size="28" fill="#e9f1f2">I manage space while fighting.</text>
+<text x="811" y="614" font-family="Arial,sans-serif" font-size="21" fill="#c4d4e0">Companion and distance need attention.</text>
+<path d="M85 713 H1355" stroke="#628079" stroke-opacity=".65" stroke-width="2"/>
+<text x="88" y="755" font-family="Arial,sans-serif" font-size="20" fill="#a9bdb0">Original conceptual diagram • Real combat outcome depends on level, talents, opponent and player skill • 11 Nov 2026</text>
+</svg>
