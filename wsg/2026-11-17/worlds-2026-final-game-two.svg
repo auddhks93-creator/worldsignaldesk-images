@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="610" viewBox="0 0 1120 610" role="img" aria-labelledby="title desc">
+<title id="title">The metrics that defined Game 2</title><desc id="desc">Game clock 53:16. BLG led 3–1 in Barons and 11–4 in towers. Viper’s Ziggs dealt 94,618 champion damage.</desc>
+<rect width="1120" height="610" fill="#f4efe6"/><rect x="40" y="42" width="1040" height="526" fill="none" stroke="#30263e" stroke-width="3"/>
+<path d="M76 138H1044M76 312H1044M76 474H1044M502 332V450" stroke="#aa9db1" stroke-width="2"/>
+<g font-family="Arial, sans-serif" fill="#30263e">
+<text x="76" y="105" font-size="37" font-weight="700" letter-spacing="2">GAME 2 · BLG VS. GEN.G</text>
+<text x="72" y="270" font-size="118" font-weight="700">53:16</text>
+<text x="530" y="205" font-size="37" font-weight="700">BLG TIES THE FINAL 1–1</text>
+<text x="533" y="256" font-size="32">Longest game of the series</text>
+<text x="76" y="382" font-size="52" font-weight="700">3–1</text>
+<text x="76" y="432" font-size="32">Barons · BLG / Gen.G</text>
+<text x="531" y="382" font-size="52" font-weight="700">11–4</text>
+<text x="531" y="432" font-size="32">Towers · BLG / Gen.G</text>
+<text x="76" y="531" font-size="35" font-weight="700">94,618 champion damage · Viper’s Ziggs</text>
+</g></svg>
